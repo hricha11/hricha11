@@ -40,9 +40,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/hricha11/hricha11/output/snake.svg" alt="Snake animation" />
-
-###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ott9s64uub2wyq7v7c20i5gee&unique={true|1|on|yes})
