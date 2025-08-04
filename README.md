@@ -21,7 +21,7 @@
 - 🛠️ Passionate about crafting **clean, scalable full-stack apps**  
 - 🚀 Proud of projects like **Job 24/7**, **FreshPress**, and **Spam Classifier**  
 - 🎯 Goal: To become a strong Full Stack Developer and build tech that matters  
-- 📖 Fun fact: I juggle 3–4 novels at a time and still debug code by night!
+- 📖 Fun fact: I juggle 3–4 novels at a time
 
 ---
 
